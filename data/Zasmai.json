@@ -1,0 +1,23 @@
+{
+  "name": "Zasmai",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Software Engineer, dog lover, cyclist",
+  "avatar": "https://github.com/Zasmai.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/iamsazzy5",
+      "icon": "FaTwitter"
+    },
+    {
+      "work": "A client web site",
+      "url": "www.weloveourpeacefultown.com"
+    },
+    {    
+     "name": "Github",
+     "url": "https://github.com/Zasmai",
+     "icon": "FaGithub"
+    }
+  ]
+}
